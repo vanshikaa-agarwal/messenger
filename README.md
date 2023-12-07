@@ -35,9 +35,7 @@ Key Features:
 Whether you're an experienced developer looking to expand your skillset or a beginner eager to learn the latest web development technologies, this tutorial has something for everyone. Join us on this exciting journey and take your web development skills to new heights!
 
 
-### Prerequisites
 
-**Node version 14.x**
 
 ### Cloning the repository
 
